@@ -1,95 +1,79 @@
 <h1 align="center">Hi 👋, I'm Shijas Hassain</h1>
-<h3 align="center">Junior Software Engineer | Flutter & Full-Stack Developer</h3>
+<h3 align="center">Flutter Developer | Django & React Full-Stack Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Django+Backend+Developer;React+Frontend+Developer;Clean+Architecture+Enthusiast&center=true&width=600&height=50">
+  <img src="https://komarev.com/ghpvc/?username=ShijasMkt&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Production+Flutter+Developer;Clean+Architecture+Focused;REST+API+Specialist;Open+Source+Contributor&center=true&width=600&height=45">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💼 Junior Software Engineer at **Brainwired**  
-📱 1+ year building production Flutter applications  
-🌐 Full-stack developer (Django + React)  
-⚡ Focused on performance optimization & clean architecture  
-📦 Creator of **WhatsDotLib** (2K+ downloads on NuGet)  
+- 💼 Junior Software Engineer at **Brainwired**
+- 📱 1+ year building production Flutter applications
+- 🧠 Strong in Riverpod, Clean Architecture & Performance Optimization
+- 🌐 Full-stack experience with Django + React
+- 📦 Creator of **WhatsDotLib** (2K+ NuGet downloads)
 
-I build scalable mobile and web applications with real-world deployment experience.
+I focus on writing scalable, maintainable, and performance-optimized applications used in real-world deployments.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 📱 Mobile
-- Flutter
-- Dart
-- Riverpod
-- Hive
-- Firebase
-- ML Kit
-
-### 🌐 Backend
-- Python
-- Django
-- REST APIs
-- MySQL
-- scikit-learn
-
-### 💻 Frontend
-- React.js
-- JavaScript
-- HTML / CSS
-- PrimeReact
-- Tailwind
-- Bootstrap
-
-### ⚙️ Tools
-- Git
-- GitHub Actions
-- GitLab
-- Postman
-- Jira
+**Mobile:** Flutter, Dart, Riverpod, Hive, Firebase, ML Kit  
+**Backend:** Django, Python, REST APIs, MySQL  
+**Frontend:** React, JavaScript, PrimeReact, Tailwind, Bootstrap  
+**Tools:** Git, GitHub Actions, GitLab, Postman, Jira  
 
 ---
 
 ## 🔥 Featured Projects
 
-### 📌 Spendly (Flutter)
-Expense tracking app with offline-first architecture using Hive.
-- Reduced unnecessary rebuilds by 40%
-- Firebase authentication & cloud sync
-- Optimized local read/write latency (<5ms)
+### 📌 Spendly
+Offline-first Flutter expense tracker using Hive + Riverpod.  
+- Reduced rebuilds by 40%  
+- Secure Firebase auth & cloud sync  
+- <5ms local data latency  
 
-🔗 https://github.com/ShijasMkt/spendly
+🔗 https://github.com/ShijasMkt/spendly  
 
 ---
 
 ### 📌 TrickyAttendance
-Face recognition attendance system (Flutter + Django + React).
-- On-device face detection using ML Kit
-- MediaPipe + KNN for web recognition
-- Reduced manual attendance effort by 90%
+Face recognition attendance system (Flutter + Django + React).  
+- ML Kit on-device detection  
+- MediaPipe + KNN recognition  
+- Reduced manual attendance effort by 90%  
 
-🔗 https://github.com/ShijasMkt/Tricky-attendance
-
----
-
-### 📌 WhatsDotLib (.NET Library)
-C# library for WhatsApp Web automation without third-party APIs.
-- QR-based authentication
-- Reusable automation APIs
-- 2K+ downloads on NuGet
-
-🔗 https://www.nuget.org/packages/WhatsDotLib
+🔗 https://github.com/ShijasMkt/Tricky-attendance  
 
 ---
 
-## 📊 GitHub Stats
+### 📌 WhatsDotLib
+C# .NET WhatsApp Web automation library.  
+- QR-based authentication  
+- No third-party API dependency  
+- 2K+ downloads on NuGet  
 
-![Shijas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShijasMkt&show_icons=true&theme=tokyonight)
+🔗 https://www.nuget.org/packages/WhatsDotLib  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShijasMkt&theme=tokyonight)
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ShijasMkt&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShijasMkt&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShijasMkt&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
